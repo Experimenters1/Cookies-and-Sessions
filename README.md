@@ -13,7 +13,7 @@
 
 
 
-**Session và Cookie** là hai khái niệm quan trọng trong lĩnh vực phát triển web và giữ trạng thái **(state)** của người dùng trên trang web. Dưới đây là sự khác nhau giữa **Session và Cookie** cũng như cách chúng kết hợp với nhau: <br><br>
+**Session và Cookie** là hai khái niệm quan trọng trong lĩnh vực phát triển web và giữ trạng thái **(state)** của người dùng trên trang **web**. Dưới đây là sự khác nhau giữa **Session và Cookie** cũng như cách chúng kết hợp với nhau: <br><br>
 
 
 ### 1.Session (Phiên làm việc): <br><br>
